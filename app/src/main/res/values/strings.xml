@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ChineseHoroscope</string>
+    <string name="descLabel">Ingresa tus datos para conocer tu hóroscopo chino</string>
+    <string name="nombre">Nombre</string>
+    <string name="numCuentaTxt">Número de cuenta</string>
+    <string name="emailTxt">Correo eléctronico</string>
+    <string name="dateBirthTxt">Fecha de nacimiento</string>
+    <string name="textBtn">Conocer mi horóscopo</string>
+    <string name="titLabel">Horóscopo Chino</string>
 </resources>
